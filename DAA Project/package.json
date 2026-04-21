@@ -1,0 +1,17 @@
+{
+  "name": "daa-project",
+  "version": "1.0.0",
+  "description": "Route Optimization using Dijkstra Algorithm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["DAA", "Dijkstra", "Route Optimization"],
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
